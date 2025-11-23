@@ -3,21 +3,6 @@
 This repository contains my write-ups for CTF challenges.  
 Designed to document solutions, share knowledge, and showcase my skills in cybersecurity.
 
-## Structure
-
-```plaintext
-CTF/
-├── picoCTF/
-|   │── 
-│   │── 
-│   │──       
-│   │── 
-│   └──    
-├── Tryhackme/
-├── HackTheBox/
-└── README.md
-```
-
 ## Platforms
 
 - **picoCTF/** – Challenges from picoCTF competitions  
