@@ -17,3 +17,10 @@ CTF/
 ├── HackTheBox/
 └── README.md
 ```
+
+## Platforms
+
+- **picoCTF/** – Challenges from picoCTF competitions  
+- **HackTheBox/** – Challenges from HackTheBox labs and CTFs  
+- **TryHackMe/** – Rooms and challenges from TryHackMe  
+- **Other/** – Any other CTFs or miscellaneous challenges  
