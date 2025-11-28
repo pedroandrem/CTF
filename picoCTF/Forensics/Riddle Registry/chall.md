@@ -8,7 +8,7 @@ Find the PDF file in files, named Hidden Confidential Document and uncover the f
 
 
 Files:
-* [Hidden Confidential Document]()
+* [Hidden Confidential Document](Files/confidential.pdf)
 
 ### Approach
 
