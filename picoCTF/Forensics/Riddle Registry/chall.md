@@ -3,9 +3,9 @@ Category: <Forensics>
 Difficulty: <Easy>
 
 Challenge Description: 
-<Hi, intrepid investigator! 📄🔍 You have stumbled upon a peculiar PDF filled with what seems like nothing more than garbled nonsense. But beware! Not everything is as it appears. Amidst the chaos lies a hidden treasure—an elusive flag waiting to be uncovered.
+Hi, intrepid investigator! 📄🔍 You have stumbled upon a peculiar PDF filled with what seems like nothing more than garbled nonsense. But beware! Not everything is as it appears. Amidst the chaos lies a hidden treasure—an elusive flag waiting to be uncovered.
 Find the PDF file in files, named Hidden Confidential Document and uncover the flag within the metadata.
->
+
 
 Files:
 * [Hidden Confidential Document]()
