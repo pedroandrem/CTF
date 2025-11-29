@@ -31,7 +31,9 @@ This revealed severel fields, including a suspicious Author value:
 The Author field contained what looked like Base64:cGljb0NURntwdXp6bDNkX20zdGFkYXRhX2YwdW5kIV9jOTk5ZTJhNH0=
 
 Used a Base64 decoder and got this result:
+```bash
 picoCTF{puzzl3d_m3tadata_f0und!_c999e2a4}
+```
 
 Flag successfully recovered 🎉
 
