@@ -44,4 +44,4 @@ This challenge highlights how metadata often hides critical information in foren
 Checking metadata fields like Author, Title, Producer, or Keywords should always be one of the first steps when dealing with suspicious files.
 
 ---
-[Back to home](<link>)
+[Back to home](<https://github.com/pedroandrem/CTF/tree/main/picoCTF>)
